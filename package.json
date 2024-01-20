@@ -1,12 +1,12 @@
 {
-  "name": "json-sever-api",
+  "name": "json-server-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Deploy JSON Server to Vercel",
+  "main": "api/server.js",
   "scripts": {
-    "test": "node api/server.js"
+    "start": "node api/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
 }
