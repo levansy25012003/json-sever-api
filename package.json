@@ -1,0 +1,12 @@
+{
+  "name": "json-sever-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

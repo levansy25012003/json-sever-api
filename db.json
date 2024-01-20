@@ -1,0 +1,106 @@
+{
+  "department": [
+    {
+      "name": "Công Nghệ TT",
+      "id": "1"
+    },
+    {
+      "name": "Kinh tế",
+      "id": "2"
+    },
+    {
+      "name": "Makerting",
+      "id": "3"
+    },
+    {
+      "name": "Môi trường",
+      "id": "4"
+    }
+  ],
+  "teacher": [
+    {
+      "name": "Hoàng Nam",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/531.jpg",
+      "dob": "2003-08-20T17:00:00.000Z",
+      "gender": "true",
+      "email": "khoanguyen@codegym.com",
+      "department": {
+        "name": "Makerting",
+        "id": "3"
+      },
+      "id": "1"
+    },
+    {
+      "name": "Mrs. Jean Skiles V",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1096.jpg",
+      "dob": "1961-03-14T11:54:21.937Z",
+      "gender": "true",
+      "email": "Donald.Jacobi70@hotmail.com",
+      "department": {
+        "name": "Công Nghệ TT",
+        "id": "1"
+      },
+      "id": "2"
+    },
+    {
+      "name": "Ms. Mamie Wuckert",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/248.jpg",
+      "dob": "2000-07-29T17:00:00.000Z",
+      "gender": false,
+      "email": "Price81@gmail.com",
+      "department": {
+        "name": "Makerting",
+        "id": "3"
+      },
+      "id": "3"
+    },
+    {
+      "name": "Kari Hahn",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/391.jpg",
+      "dob": "1985-04-04T17:00:00.000Z",
+      "gender": false,
+      "email": "Amara_Hessel@hotmail.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "4"
+    },
+    {
+      "name": "Trần phi long",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/531.jpg",
+      "dob": "1996-04-10T17:00:00.000Z",
+      "gender": "false",
+      "email": "nuziwytapy@mailinator.com",
+      "department": {
+        "name": "Kinh tế",
+        "id": "2"
+      },
+      "id": "7"
+    },
+    {
+      "name": "Hoàng Nam",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/531.jpg",
+      "dob": "1974-03-07T16:00:00.000Z",
+      "gender": "false",
+      "email": "weqetana@mailinator.com",
+      "department": {
+        "name": "Công Nghệ TT",
+        "id": "1"
+      },
+      "id": "8"
+    },
+    {
+      "name": "Lê Văn Sỹ",
+      "avatar": "https://res.cloudinary.com/dfozvf4na/image/upload/v1705595369/g6uqsjbde2ggqzogur8u.png",
+      "dob": "2003-01-24T17:00:00.000Z",
+      "gender": "false",
+      "email": "levansy25012003@gmail.com",
+      "department": {
+        "name": "Công Nghệ TT",
+        "id": "1"
+      },
+      "id": "9"
+    }
+  ]
+}
